@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(169, 235, 169);
+    margin: 2%;
+}
+.heading-text
+{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(30, 92, 23);
+    margin:5% auto 3% auto;
+}
+.about-img-1
+{
+   float:left;
+   width:30vw;
+   height:50vh;
+   display: inline;
+   margin-right: 3.5vw;
+}
+.about-img-2
+{
+   float:right;
+   width:30vw;
+   height:50vh;
+   display: inline;
+   margin-left: 3.5vw;
+}
+.about-question,.why-used-question{
+color:#754b28;
+margin-left:5vw;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.about-text,.why-used-text
+{
+   font-weight: 500;
+   font-size: larger;
+   font-family: 'Dancing Script', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Source Serif Pro', serif;
+    color:rgb(26, 71, 72)
+}
+.generate-button
+{
+   text-align: center;
+}
+.generate{
+border-radius: 4px;
+background: linear-gradient(to right, #67b26b, #3387ae) !important;
+border: none;
+color: #FFFFFF;
+text-align: center;
+text-transform: uppercase;
+font-size: 22px;
+padding: 20px;
+width: 25%;
+cursor: pointer;
+margin: 5px;
+}
